@@ -5,3 +5,11 @@
 
 Neste curso, você aprenderá as tags HTML mais comuns criando seu próprio aplicativo de fotos de gatos.</p>
 </div>
+
+<div> <h1>Midia 🖼️ 🎞️</h1>
+  <div> <h2 align="center">Video 🎞️</h2> 
+  
+  </div>
+    <div> <h2 align="center">fotos 🖼️</h2> </div>
+  
+</div>
