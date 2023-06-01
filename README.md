@@ -21,7 +21,7 @@ https://github.com/WolfWillian/Site_Gatinhos/assets/97626647/5491359d-0157-4b3b-
 
 <p>Vídeo Site de Gato = "https://github.com/WolfWillian/Site_Gatinhos/issues/1#issue-1726734446"<p>
   </div>
-    <div> <h3 align="left">fotos 🖼️</h3> </div>
+    <div> <h2 align="left">Fotos 🖼️</h2> </div>
 
   <p>
    
