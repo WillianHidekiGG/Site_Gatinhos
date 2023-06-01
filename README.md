@@ -1,9 +1,18 @@
-# <div align="center">Site_Gatinhos  :cat: :computer:</div>
+ <div align="center"><h1>Site_Gatinhos  :cat: :computer:</h1></div>
 
 <div>
+  
+   <h2 align="center">Resumo</h2>
+  
   <p> As tags HTML fornecem a uma página da Web sua estrutura. Você pode usar tags HTML para adicionar fotos, botões e outros elementos à sua página da web.
 
 Neste curso, você aprenderá as tags HTML mais comuns criando seu próprio aplicativo de fotos de gatos.</p>
+  
+  <h3>English</h3>
+  
+  <p> HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
+
+In this course, you'll learn the most common HTML tags by building your own cat photo app.</p>
   
 <div align="center">
   
@@ -13,6 +22,8 @@ Neste curso, você aprenderá as tags HTML mais comuns criando seu próprio apli
   </div>
 
 </div>
+
+#
 
 <div align="center"> <h2>Midia 🖼️ 🎞️</h2>
   <div> <h2 align="left">Video 🎞️</h2> 
